@@ -139,5 +139,3 @@ pip install onnxruntime
 - For issues, check the README or contact the project maintainer.
 
 ---
-
-**Enjoy your improved Human Activity Recognition system!** 
