@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+pywhatkit==5.4
+numpy==1.24.3
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+Pillow==10.0.0 
