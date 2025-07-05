@@ -4,4 +4,8 @@ numpy==1.24.3
 tensorflow==2.13.0
 torch==2.0.1
 torchvision==0.15.2
-Pillow==10.0.0 
+Pillow==10.0.0
+# ONNX Runtime - try one of these options:
+# onnxruntime==1.15.1
+# onnxruntime-cpu==1.15.1
+# onnxruntime-gpu==1.15.1 

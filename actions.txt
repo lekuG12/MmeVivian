@@ -47,4 +47,5 @@ talk
 throw
 turn
 walk
-wave 
+wave
+pour 
